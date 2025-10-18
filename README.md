@@ -6,3 +6,5 @@ Once running there are two modes, preparing and running:
 
 While preparing you can add nodes by clicking or delete them by right clicking. Press esc to start running the algorithm.
 Once running you can press Q to querry values and enter the index of a modifiable value to change it. Press esc again to reset back to the start of the preperation phase.
+
+To modify variables pre-runitme the code must be edited.
